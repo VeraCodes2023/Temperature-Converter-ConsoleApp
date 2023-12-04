@@ -1,0 +1,15 @@
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_1-temperature-comverter/bin/Debug/net7.0/TemperatureConverter
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_1-temperature-comverter/bin/Debug/net7.0/TemperatureConverter.deps.json
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_1-temperature-comverter/bin/Debug/net7.0/TemperatureConverter.runtimeconfig.json
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_1-temperature-comverter/bin/Debug/net7.0/TemperatureConverter.dll
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_1-temperature-comverter/bin/Debug/net7.0/TemperatureConverter.pdb
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_1-temperature-comverter/obj/Debug/net7.0/TemperatureConverter.csproj.AssemblyReference.cache
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_1-temperature-comverter/obj/Debug/net7.0/TemperatureConverter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_1-temperature-comverter/obj/Debug/net7.0/TemperatureConverter.AssemblyInfoInputs.cache
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_1-temperature-comverter/obj/Debug/net7.0/TemperatureConverter.AssemblyInfo.cs
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_1-temperature-comverter/obj/Debug/net7.0/TemperatureConverter.csproj.CoreCompileInputs.cache
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_1-temperature-comverter/obj/Debug/net7.0/TemperatureConverter.dll
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_1-temperature-comverter/obj/Debug/net7.0/refint/TemperatureConverter.dll
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_1-temperature-comverter/obj/Debug/net7.0/TemperatureConverter.pdb
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_1-temperature-comverter/obj/Debug/net7.0/TemperatureConverter.genruntimeconfig.cache
+/Users/Veraahde/Desktop/Integrify/fs16_CSharp_1-temperature-comverter/obj/Debug/net7.0/ref/TemperatureConverter.dll
